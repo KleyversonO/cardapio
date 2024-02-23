@@ -10,7 +10,7 @@ O site foi desenvolvido com o intuito de relembrar a como desevolver um site, e 
 ![vdi]
 
 ## Sobre o site
-O site por mais que tenha seu principal foco nos itens a venda, tambem tem outras paginas que não foram desemvolvidas, como a area de assitência, a area sobre a intenção do site, e pagina principal do site. Mas a unica realmente desemvolvida é a de venda
+O site por mais que tenha seu principal foco nos itens a venda, tambem tem outras paginas que não foram desenvolvidas, como o a primeira tela chamada de "cardapio", que não tem uma real função a não ser levar até a parte importante. Mas a unica realmente desenvolvida é a de venda
 
 ## Tecnologias utilizadas 
 
